@@ -1,0 +1,68 @@
+[
+    {"class" : "class1",
+     "inputs" : [
+        {"key": "user_age", "type": "number", "value": "48"},
+	    {"key": "user_interests", "type": "list", "value": "music,cooking,complainging"},
+        {"key": "user_location", "type": "keyword", "value": "Guyana"}]
+     },
+     {"class" : "class2",
+     "inputs" : [
+        {"key": "user_age", "type": "number", "value": "45"},
+	    {"key": "user_interests", "type": "list", "value": "reading,coding,ml"},
+        {"key": "user_location", "type": "keyword", "value": "Aruba"}]
+     },
+     {"class" : "class3",
+     "inputs" : [
+        {"key": "user_age", "type": "number", "value": "25"},
+	    {"key": "user_interests", "type": "list", "value": "music,gym,partying"},
+        {"key": "user_location", "type": "keyword", "value": "Netherlands"}]
+     },
+     {"class" : "class1",
+     "inputs" : [
+        {"key": "user_age", "type": "number", "value": "44"},
+	    {"key": "user_interests", "type": "list", "value": "music,cooking,complainging"},
+        {"key": "user_location", "type": "keyword", "value": "Venezuela"}]
+     },
+     {"class" : "class2",
+     "inputs" : [
+        {"key": "user_age", "type": "number", "value": "46"},
+	    {"key": "user_interests", "type": "list", "value": "reading,coding,ml"},
+        {"key": "user_location", "type": "keyword", "value": "Bonaire"}]
+     },
+     {"class" : "class3",
+     "inputs" : [
+        {"key": "user_age", "type": "number", "value": "15"},
+	    {"key": "user_interests", "type": "list", "value": "music,gym,partying"},
+        {"key": "user_location", "type": "keyword", "value": "Belgium"}]
+     },
+     {"class" : "class2",
+     "inputs" : [
+        {"key": "user_age", "type": "number", "value": "36"},
+	    {"key": "user_interests", "type": "list", "value": "music,coding,ml"},
+        {"key": "user_location", "type": "keyword", "value": "Bonaire"}]
+     },
+     {"class" : "class2",
+     "inputs" : [
+        {"key": "user_age", "type": "number", "value": "26"},
+	    {"key": "user_interests", "type": "list", "value": "reading,parenting,ml"},
+        {"key": "user_location", "type": "keyword", "value": "Aruba"}]
+     },
+     {"class" : "class2",
+     "inputs" : [
+        {"key": "user_age", "type": "number", "value": "16"},
+	    {"key": "user_interests", "type": "list", "value": "reading,coding,partying"},
+        {"key": "user_location", "type": "keyword", "value": "Curaçao"}]
+     },
+     {"class" : "class2",
+     "inputs" : [
+        {"key": "user_age", "type": "number", "value": "56"},
+	    {"key": "user_interests", "type": "list", "value": "reading,coding,sailing"},
+        {"key": "user_location", "type": "keyword", "value": "Aruba"}]
+     },
+     {"class" : "class2",
+     "inputs" : [
+        {"key": "user_age", "type": "number", "value": "32"},
+	    {"key": "user_interests", "type": "list", "value": "reading,coding,ml"},
+        {"key": "user_location", "type": "keyword", "value": "Saint Martin"}]
+     }
+]
